@@ -1,0 +1,4 @@
+# Ignore plugins install directories except for Vundle, which will be used for plugins installation and updates
+
+/bundle/*
+!/bundle/Vundle.vim
